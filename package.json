@@ -28,6 +28,6 @@
     "sequelize": "^5.21.13",
     "sequelize-cli": "^5.5.1",
     "stream": "0.0.2",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   }
 }
